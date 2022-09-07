@@ -31,6 +31,7 @@ $(document).on('click', '.nav-list > li > a', e => {
 ## Education and Experience
 
 **University**: BSUIR (2017-2021)  
+**Courses** JS/FE Pre-School 2022/Q2
 
 Since my specialty is a marketing programmer, I've been doing link building lately. I also had a little experience in PHP development.
 
